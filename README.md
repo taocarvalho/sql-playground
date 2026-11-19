@@ -1,0 +1,2 @@
+# sql-playground
+Random experiments
